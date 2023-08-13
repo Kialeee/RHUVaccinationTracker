@@ -1,0 +1,9 @@
+<?php
+	include("../php_components/header_admin.php");
+?>
+<?php
+	include("../php_components/weeklyScheduleNotSet.php");
+?>
+<?php
+	include("../php_components/footer_admin.php");
+?>

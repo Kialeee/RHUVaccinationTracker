@@ -1,0 +1,9 @@
+<?php
+	include("../php_components/header_user.php");
+?>
+<?php
+	include("../php_components/recordHistory.php");
+?>
+<?php
+	include("../php_components/footer_user.php");
+?>

@@ -1,0 +1,9 @@
+<?php
+	include("../php_components/header_user.php");
+?>
+<?php
+	include("../php_components/schedulesNotSet.php");
+?>
+<?php
+	include("../php_components/footer_user.php");
+?>
