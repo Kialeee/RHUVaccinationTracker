@@ -77,7 +77,7 @@
         <div class="profile-details">
           <img src="../images/kirky.png">
           <div class="name_job">
-            <div class="name">Kirky</div>
+            <div class="name">Kialeee</div>
             <div class="job">Web Designs</div>
           </div>
         </div>
